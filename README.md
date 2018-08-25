@@ -13,7 +13,7 @@ sudo gem install roo spreadsheet
 
 ##  测试:
 
-1. git clone http://chenwei@192.168.100.229/chenwei/convert_csv.git
+1. git clone https://github.com/cheenwe/convert_csv.git
 2. 进入 `convert_csv` 目录,  执行 ./convert
 3. 在目录 `csv_result` 能看到转换后的 CSV 文件
 
