@@ -1,6 +1,18 @@
-# 批量将目录下 excel 文件转成 csv
+#!/bin/ruby
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#  copyright   : Copyright (c) 2018 cheenwe.
+#  filename    : excel_to_csv.rb
+#  author      : cheenwe
+#  version     : 0.0.1
+#  created     : 2018.08.25
+#  description : 批量将目录下 excel 文件转成 csv
+#                支持转换 xlsx 和 xls 两种文件类型
 #
-#  支持转换 xlsx 和 xls 两种文件类型
+#  history     : 日志文件
+#               1. Date: 2018.08.25
+#               Author:  cheenwe
+#               Modification: first add
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #
 #
 # ubuntu 下环境准备:
